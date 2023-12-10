@@ -3,42 +3,42 @@ table{
 }
 
 td , th {
-    padding: 0px 30px;
+    padding: 0px 20px;
 
 }
 
 #chif{
 
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
 
 }
 
 .img_list{
     justify-content: space-around;
-    padding: 10px;
+    padding: 6px;
     display: flex;
 }
 
 .main{
     margin: auto;
-    border: 10px  solid  black;
+    border: 6px  solid  black;
     width: 70%;
 }
 
 p{
-    font-size: 16px;
+    font-size: 12px;
     font-family: Roboto;
 
 }
 
 h2{
-    font-size: 20px;
+    font-size: 16px;
     font-family: Roboto;
 }
 
 h1{
-    font-size: 25px;
+    font-size: 20px;
     font-family: Roboto;
 }
 
