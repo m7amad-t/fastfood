@@ -1,0 +1,64 @@
+table{
+    padding: 10px;
+}
+
+td , th {
+    padding: 0px 50px;
+
+}
+
+#chif{
+
+    width: 300px;
+    height: 300px;
+
+}
+
+.img_list{
+    justify-content: space-around;
+    padding: 20px;
+    display: flex;
+}
+
+.main{
+    margin: auto;
+    border: 10px  solid  black;
+    width: 70%;
+}
+
+p{
+    font-size: 26px;
+    font-family: Roboto;
+
+}
+
+h2{
+    font-size: 30px;
+    font-family: Roboto;
+}
+
+h1{
+    font-size: 45px;
+    font-family: Roboto;
+}
+
+.content{
+    display: flex;
+    width: 100%;
+    justify-content: center ;
+    align-items: center;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.tabels{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
