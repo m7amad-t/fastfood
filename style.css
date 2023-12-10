@@ -1,22 +1,22 @@
 table{
-    padding: 10px;
+    padding: 4px;
 }
 
 td , th {
-    padding: 0px 50px;
+    padding: 0px 30px;
 
 }
 
 #chif{
 
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 
 }
 
 .img_list{
     justify-content: space-around;
-    padding: 20px;
+    padding: 10px;
     display: flex;
 }
 
@@ -27,18 +27,18 @@ td , th {
 }
 
 p{
-    font-size: 26px;
+    font-size: 16px;
     font-family: Roboto;
 
 }
 
 h2{
-    font-size: 30px;
+    font-size: 20px;
     font-family: Roboto;
 }
 
 h1{
-    font-size: 45px;
+    font-size: 25px;
     font-family: Roboto;
 }
 
