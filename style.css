@@ -1,5 +1,6 @@
 table{
     padding: 4px;
+    border: 2px solid blue;
 }
 
 td , th {
@@ -29,6 +30,7 @@ td , th {
 p{
     font-size: 14px;
     font-family: Roboto;
+    color : blue; 
 
 }
 
@@ -61,4 +63,8 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#page-title{
+    color : maroon; 
 }
